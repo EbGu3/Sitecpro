@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eber_SitecproEntrevista", "Eber_SitecproEntrevista\Eber_SitecproEntrevista.csproj", "{AE40CB5B-322D-43D2-97C8-18A51DF33426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE40CB5B-322D-43D2-97C8-18A51DF33426}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{AE40CB5B-322D-43D2-97C8-18A51DF33426}.Debug|anycpu.Build.0 = Debug|anycpu
+		{AE40CB5B-322D-43D2-97C8-18A51DF33426}.Release|anycpu.ActiveCfg = Release|anycpu
+		{AE40CB5B-322D-43D2-97C8-18A51DF33426}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59925F7D-1D50-485E-AE64-07BF64F7A6FB}
+	EndGlobalSection
+EndGlobal
